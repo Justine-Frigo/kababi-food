@@ -13,4 +13,4 @@ We've been given a template and some assets, so we had to figure things out, esp
 
 ### Preview
 
-You can access the preview [here](https://sheyleen.github.io/kababi-food/).
+You can access the preview [here](https://justine-frigo.github.io/kababi-food/).
